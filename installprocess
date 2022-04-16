@@ -1,0 +1,3 @@
+npm install express mysql body-parser ejs nodemon
+npm i nodemon
+sudo npm install -g nodemon
